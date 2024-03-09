@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Walktrough](https://github.com/prachiheda/community-board/blob/main/community-board/src/assets/CommunityBoard.gif)
+![Walktrough](https://github.com/prachiheda/flashcards/blob/main/FlashcardDemo.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
